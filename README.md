@@ -1,5 +1,5 @@
 # LocalGPT: Secure, Local Conversations with Your Documents 🌐
-
+I've added the functionality to ingest .json dataset files (Pavlin)
 🚨🚨 You can run localGPT on a pre-configured [Virtual Machine](https://bit.ly/localGPT). Make sure to use the code: PromptEngineering to get 50% off. I will get a small commision!
 
 **LocalGPT** is an open-source initiative that allows you to converse with your documents without compromising your privacy. With everything running locally, you can be assured that no data ever leaves your computer. Dive into the world of secure, local document interactions with LocalGPT.
